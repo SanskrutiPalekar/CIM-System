@@ -1,0 +1,14 @@
+h1,h2,h3{
+    color:rgb(15, 15, 117);
+    text-transform: uppercase;
+    background-color: rgb(201, 195, 195);
+    border-width: 250 px;
+    text-align: center;
+   
+}
+nav{
+    text-align: center;
+}
+
+
+
